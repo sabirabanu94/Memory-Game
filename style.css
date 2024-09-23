@@ -1,0 +1,114 @@
+ body {
+     font-family: poppins;
+     background: linear-gradient(217deg, rgba(255, 0, 0, .8), rgba(255, 0, 0, 0) 70.71%), linear-gradient(127deg, rgba(0, 255, 0, .8), rgba(0, 255, 0, 0) 70.71%), linear-gradient(336deg, rgba(0, 0, 255, .8), rgba(0, 0, 255, 0) 70.71%);
+     background-size: contain;
+ }
+ /* Game container */
+ 
+ .game-container {
+     text-align: center;
+     margin-top: 20px;
+ }
+ /* Timer styling */
+ 
+ #timer {
+     font-size: 24px;
+     top: 100px;
+     left: 100px;
+     transform: rotate('45deg')
+ }
+ /* Game board grid */
+ 
+ .game-board {
+     display: grid;
+     justify-content: center;
+     margin-top: 20px;
+     grid-template-columns: repeat(5, 120px);
+     margin: auto;
+ }
+ /* Card dimensions and perspective for 3D flip */
+ 
+ .SingleCard {
+     width: 100px;
+     height: 150px;
+     margin: 10px;
+     perspective: 1000px;
+     position: relative;
+ }
+ 
+ .SingleCard:hover {
+     transform: scale(1.1);
+     box-shadow: 0 0 15px #131f3b;
+     text-shadow: 0 0 5px #41146b;
+ }
+ 
+ .MainCard,
+ .BackSide {
+     width: 100%;
+     height: 100%;
+     position: absolute;
+     transition: transform 0.6s;
+     backface-visibility: hidden;
+     border-radius: 10px;
+     left: 0px;
+ }
+ 
+ .BackSide {
+     transform: rotateY(0deg);
+ }
+ 
+ .MainCard {
+     transform: rotateY(180deg);
+ }
+ 
+ .flipped .MainCard {
+     transform: rotateY(0deg);
+ }
+ 
+ .flipped .BackSide {
+     transform: rotateY(180deg);
+ }
+ 
+ .formText,
+ .start-btn,
+ .stop-btn {
+     padding: 10px;
+     margin: 10px;
+     font-size: 16px;
+ }
+ 
+ .start-btn {
+     background-color: #27ae60;
+     color: white;
+     border: none;
+     border-radius: 25px;
+     cursor: pointer;
+ }
+ 
+ .stop-btn {
+     background-color: #e71818;
+     color: aliceblue;
+     border-radius: 25px;
+     cursor: pointer;
+ }
+ 
+ .stop-btn:hover {
+     background-color: #27ae60;
+ }
+ 
+ .start-btn:hover {
+     background-color: #e71818;
+ }
+ 
+ h2 {
+     font-family: fantasy;
+     font-style: italic;
+     font-weight: bolder;
+     font-size: xx-large;
+     text-shadow: blueviolet;
+     color: rgb(77, 17, 17);
+ }
+ 
+ #difficulty {
+     border-radius: 15px;
+ }

@@ -1,0 +1,209 @@
+[{
+        "Name": "AS",
+        "Source": "Assets/AS.png"
+    },
+    {
+        "Name": "2S",
+        "Source": "Assets/2S.png"
+    },
+    {
+        "Name": "3S",
+        "Source": "Assets/3S.png"
+    },
+    {
+        "Name": "4S",
+        "Source": "Assets/4S.png"
+    },
+    {
+        "Name": "5S",
+        "Source": "Assets/5S.png"
+    },
+    {
+        "Name": "6S",
+        "Source": "Assets/6S.png"
+    },
+    {
+        "Name": "7S",
+        "Source": "Assets/7S.png"
+    },
+    {
+        "Name": "8S",
+        "Source": "Assets/8S.png"
+    },
+    {
+        "Name": "9S",
+        "Source": "Assets/9S.png"
+    },
+    {
+        "Name": "10S",
+        "Source": "Assets/10S.png"
+    },
+    {
+        "Name": "JS",
+        "Source": "Assets/JS.png"
+    },
+    {
+        "Name": "QS",
+        "Source": "Assets/QS.png"
+    },
+    {
+        "Name": "KS",
+        "Source": "Assets/KS.png"
+    },
+    {
+        "Name": "AC",
+        "Source": "Assets/AC.png"
+    },
+    {
+        "Name": "2C",
+        "Source": "Assets/2C.png"
+    },
+    {
+        "Name": "3C",
+        "Source": "Assets/3C.png"
+    },
+    {
+        "Name": "4C",
+        "Source": "Assets/4C.png"
+    },
+    {
+        "Name": "5C",
+        "Source": "Assets/5C.png"
+    },
+    {
+        "Name": "6C",
+        "Source": "Assets/6C.png"
+    },
+    {
+        "Name": "7C",
+        "Source": "Assets/7C.png"
+    },
+    {
+        "Name": "8C",
+        "Source": "Assets/8C.png"
+    },
+    {
+        "Name": "9C",
+        "Source": "Assets/9C.png"
+    },
+    {
+        "Name": "10C",
+        "Source": "Assets/10C.png"
+    },
+    {
+        "Name": "JC",
+        "Source": "Assets/JC.png"
+    },
+    {
+        "Name": "QC",
+        "Source": "Assets/QC.png"
+    },
+    {
+        "Name": "KC",
+        "Source": "Assets/KC.png"
+    },
+    {
+        "Name": "AH",
+        "Source": "Assets/AH.png"
+    },
+    {
+        "Name": "2H",
+        "Source": "Assets/2H.png"
+    },
+    {
+        "Name": "3H",
+        "Source": "Assets/3H.png"
+    },
+    {
+        "Name": "4H",
+        "Source": "Assets/4H.png"
+    },
+    {
+        "Name": "5H",
+        "Source": "Assets/5H.png"
+    },
+    {
+        "Name": "6H",
+        "Source": "Assets/6H.png"
+    },
+    {
+        "Name": "7H",
+        "Source": "Assets/7H.png"
+    },
+    {
+        "Name": "8H",
+        "Source": "Assets/8H.png"
+    },
+    {
+        "Name": "9H",
+        "Source": "Assets/9H.png"
+    },
+    {
+        "Name": "10H",
+        "Source": "Assets/10H.png"
+    },
+    {
+        "Name": "JH",
+        "Source": "Assets/JH.png"
+    },
+    {
+        "Name": "QH",
+        "Source": "Assets/QH.png"
+    },
+    {
+        "Name": "KH",
+        "Source": "Assets/KH.png"
+    },
+    {
+        "Name": "AD",
+        "Source": "Assets/AD.png"
+    },
+    {
+        "Name": "2D",
+        "Source": "Assets/2D.png"
+    },
+    {
+        "Name": "3D",
+        "Source": "Assets/3D.png"
+    },
+    {
+        "Name": "4D",
+        "Source": "Assets/4D.png"
+    },
+    {
+        "Name": "5D",
+        "Source": "Assets/5D.png"
+    },
+    {
+        "Name": "6D",
+        "Source": "Assets/6D.png"
+    },
+    {
+        "Name": "7D",
+        "Source": "Assets/7D.png"
+    },
+    {
+        "Name": "8D",
+        "Source": "Assets/8D.png"
+    },
+    {
+        "Name": "9D",
+        "Source": "Assets/9D.png"
+    },
+    {
+        "Name": "10D",
+        "Source": "Assets/10D.png"
+    },
+    {
+        "Name": "JD",
+        "Source": "Assets/JD.png"
+    },
+    {
+        "Name": "QD",
+        "Source": "Assets/QD.png"
+    },
+    {
+        "Name": "KD",
+        "Source": "Assets/KD.png"
+    }
+]
